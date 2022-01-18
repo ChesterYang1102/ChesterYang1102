@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChesterYang1102
 - 👀 I’m interested in game
 - 🌱 I’m currently learning code
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
